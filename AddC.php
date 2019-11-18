@@ -5,7 +5,7 @@
 </form>
 </div>
 <form action="Customers.php">
-<input type = "submit" value = "Costomer Page">
+<input type = "submit" value = "Customer Page">
 </form>
 
 <?php
